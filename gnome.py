@@ -1,4 +1,3 @@
-  GNU nano 7.2                                  gnome.py                                           
 def compute_root(a, n):
     if n <= 1:
         raise ValueError("n must be greater than 1 to avoid division by zero.")
@@ -31,4 +30,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
