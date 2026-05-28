@@ -6,6 +6,6 @@ Take the ax^n-x+0 form of a binomial, and plug in a percetage of any rep max, su
 
 .85x^3-x=0
 
-This should be soething that currently doesn't plateau. Find its root. Any binomial of degree two or above sharing this root will have a coefficient (a) that corresponds to the weight that can be revoered from when sets are n.
+This should be something that currently doesn't plateau. Find its root. Any binomial of degree two or above sharing this root will have a coefficient (a) that corresponds to the weight that can be revoered from when sets are n.
 
-In my experience, you can exceed MRV before reaching failure, this might help with that problem. 
+In my experience, you can exceed MRV before reaching failure. This might help with that problem. 
