@@ -2,7 +2,7 @@
 
 Polynomials for equating maximum recoverable volume from known effective set-rep schemes with other effective volume loads.
 
-Take the ax^n-x=0 form of a binomial, and plug in a percetage of any rep max, such as a 10 rep max, and the number of sets you can do with that percentage as the exponent:
+Take the ax^n-x=0 form of a binomial, and plug in a percentage of any rep max, such as a 10 rep max, and the number of sets you can do with that percentage as the exponent:
 
 .85x^3-x=0
 
